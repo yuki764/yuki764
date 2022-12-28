@@ -4,7 +4,7 @@ I'm working in IT industry as SRE.
 
 My avatar is drawn by [@harahara_shita](https://twitter.com/harahara_sita).
 
-### My Skills
+### Skills
 
 * Linux (Ubuntu/Debian)
 * Kubernetes (💕)
